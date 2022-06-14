@@ -1,5 +1,4 @@
 import Phaser from "phaser";
-import logoImg from "./assets/logo.png";
 import sky from "./assets/sky.png";
 import ground from "./assets/platform.png";
 import star from "./assets/star.png";
